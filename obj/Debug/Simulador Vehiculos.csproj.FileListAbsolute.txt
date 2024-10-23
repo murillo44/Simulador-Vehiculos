@@ -1,0 +1,10 @@
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\bin\Debug\Simulador Vehiculos.exe.config
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\bin\Debug\Simulador Vehiculos.exe
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\bin\Debug\Simulador Vehiculos.pdb
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador Vehiculos.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador_Vehiculos.Form1.resources
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador_Vehiculos.Properties.Resources.resources
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador Vehiculos.csproj.GenerateResource.cache
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador Vehiculos.exe
+C:\Users\super\source\repos\Personal\1er Parcial POO\Simulador Vehiculos\obj\Debug\Simulador Vehiculos.pdb
